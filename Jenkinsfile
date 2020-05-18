@@ -4,7 +4,7 @@ pipeline {
    stages {
       stage('1st stage') {
          steps {
-            echo 'Hello World using SCM JenkinsFile'
+            echo 'Hi Pramod: using SCM JenkinsFile'
          }
       }
    }
